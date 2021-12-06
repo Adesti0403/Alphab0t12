@@ -2,17 +2,15 @@
 const gcbotwa = () =>{
 	return`Join Aja Semua Fitur Bot Bisa Digunakan !
 
-1. *Offc RenB0T 🤖*
+1. *Official RenBOT 1*
 _https://chat.whatsapp.com/Ia1iqqUnchtCqmpxb17kSm_
-2. *Anime_Lover`s*
-_https://chat.whatsapp.com/KtHfhdyNCqv0JKIjKhssu1_
-3. *9 Oktober 📌*
-_https://chat.whatsapp.com/DcvnYkG32sx24CRWtXw489_
-4. *Offc RenB0T 🤖* 
+2. *Official RenBOT 2*
 _https://chat.whatsapp.com/BeirAfnkfBoE0bogjbtWcr_
 
+*Nomor Owner wa.me/+6285845823026*
+
 Jika ada link yang ke reset, silahkan hubungi
-owner untuk meminta link yang baru [ wa.me/+6285845823026 ]
+owner untuk meminta link yang baru!!
 `
 }
 exports.gcbotwa = gcbotwa
