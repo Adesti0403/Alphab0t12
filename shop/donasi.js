@@ -1,27 +1,27 @@
 const donasibot = () => {
-return `DONASI BISA VIA BANK / E-MONEY
+return `DONASI BISA VIA BANK / Pulsa-Pay
 
 *🏧 BANK*
 
 1. BRI 
-	ㅁ 8881 0887 4350 47326
+	ㅁ Tidak Tersedia
 2. BCA 
-	ㅁ 3901 0887 4350 47326
+	ㅁ Tidak Tersedia
 3. BNI 
-	ㅁ 881 0887 4350 47326
+	ㅁ Tidak Tersedia
 4. PERMATA
-	ㅁ 852 8887 4350 47326
+	ㅁ Tidak Tersedia
 	
-*💰 E-MONEY*
+*💰 Pulsa-Pay*
 
-1. GOPAY
-	ㅁ 0887 4350 47326
-2. OVO
-	ㅁ 0887 4350 47326
-3. DANA
-	ㅁ 0887 4350 47326
+1. Indoaat Ooredoo [ 1 ]
+	ㅁ 0858 4582 3026
+2. Axis
+	ㅁ 0838 5370 7647
+3. Indosat Ooredoo [ 2 ]
+	ㅁ 0816 4935 7107
 	
-Semuanya atas nama RI****DI
+Semuanya atas nama RenB0T
 `
 	}
 
