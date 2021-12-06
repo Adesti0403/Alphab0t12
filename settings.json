@@ -1,20 +1,20 @@
 {
     "self_mode": false,
-	"autobio": false,
+	"autobio": true,
 	"antihidetag": true,
 	"user_register": false,
-	"anti_delete" : false,
+	"anti_delete" : true,
 	"anticall": true,
 	"auto_welcome_msg": true,
 	"auto_leave_msg": true,
 	"prefix": ".",
 	"language":"ind",
-	"ownerNumber": "62887435047326",
-	"ownerNumberr": "62887435047326",
-	"cr": "@ZeeoneOfc",
-	"ownername": "ZeeoneOfc",
-	"botname":"Ａʟᴘʜᴀʙᴏᴛ",
+	"ownerNumber": "6285845823026",
+	"ownerNumberr": "6285845823026",
+	"cr": "@RenB0T",
+	"ownername": "RenB0T",
+	"botname":"𝑨-𝑫𝒆𝒔𝒕𝒚 𝑩𝑶𝑻",
 	"thumb":"thumbnail_1.jpg",
 	"fakethumb":"thumbnail_1.jpg", 
-	"fake": " 「  Ａʟᴘʜᴀʙᴏᴛ  」\nCreated By @ZeeoneOfc"
+	"fake": " 「  𝑨-𝑫𝒆𝒔𝒕𝒚  」\nDibuat Oleh @RenB0T"
 }
