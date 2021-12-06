@@ -2,17 +2,17 @@
 const gcbotwa = () =>{
 	return`Join Aja Semua Fitur Bot Bisa Digunakan !
 
-1. *Alphabot Support*
-_https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV_
-2. *Alphabot Support 2*
-_https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE_
-3. *Alphabot Support 3*
-_https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy_
-4. *Alphabot Support 4* 
-_https://chat.whatsapp.com/KwmvHr7VMFj7r5ry9xmMsU_
+1. *Offc RenB0T 🤖*
+_https://chat.whatsapp.com/Ia1iqqUnchtCqmpxb17kSm_
+2. *Anime_Lover`s*
+_https://chat.whatsapp.com/KtHfhdyNCqv0JKIjKhssu1_
+3. *9 Oktober 📌*
+_https://chat.whatsapp.com/DcvnYkG32sx24CRWtXw489_
+4. *Offc RenB0T 🤖* 
+_https://chat.whatsapp.com/BeirAfnkfBoE0bogjbtWcr_
 
 Jika ada link yang ke reset, silahkan hubungi
-owner untuk meminta link yang baru
+owner untuk meminta link yang baru [ wa.me/+6285845823026 ]
 `
 }
 exports.gcbotwa = gcbotwa
