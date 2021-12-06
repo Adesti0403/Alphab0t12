@@ -1,11 +1,11 @@
 /*
 
-	あ GK KASI CREDIT YT ZEEONE OFC, GK USAH RE UPLOAD
+	あ GK KASI CREDIT RenB0T, GK USAH RE UPLOAD
 	あ SUSAH" NGE FIX, LU CUMA NUMPANG NAMA DOANG
 	あ YANG BELUM PAHAM CAR RUN DI HEROKU TONTON AJA VIDEO SEBELUMNYA
 	あ FITUR JUALAN TELAH DI HAPUS [ Bisa order klo mau ]
 	
-	あ JASA RUN HEROKU BISA PC wa.me/62887435047326 BIAR BOT NYA GAK TERLALU DELAY
+	あ JASA RUN HEROKU BISA PC wa.me/6285845823026 BIAR BOT NYA GAK TERLALU DELAY
 	
 */   
 const
@@ -154,10 +154,10 @@ var qr_code_ovo = 'https://h.top4top.io/p_2053vk0uw1.jpg' //gk usah di ubah ya k
 var qr_code_dana = 'https://j.top4top.io/p_20532posd1.jpg' //gk usah di ubah ya klo gk punya ntr eror
 var qr_code_gopay = 'https://i.top4top.io/p_2053em3vh1.jpg' //gk usah di ubah ya klo gk punya ntr eror
 
-var _minggu = 'Rp 10.000,00' //Masukkan harga sewa sesuai keinginan
-var __minggu = 'Rp 15.000,00'
-var ___minggu = 'Rp 20.000,00'
-var _bulan = 'Rp 22.000,00'
+var _minggu = 'Rp 15.000,00' //Masukkan harga sewa sesuai keinginan
+var __minggu = 'Rp 20.000,00'
+var ___minggu = 'Rp 25.000,00'
+var _bulan = 'Rp 35.000,00'
 var _permanen = 'Rp 100.000,00'
 var __permanen = 'Rp 150.000,00'
 
@@ -169,9 +169,9 @@ fthumb = setting.fakethumb
 hit_today = []
 blocked = []
 ban = []
-limitawal = "50"
-gcounttprem = "55" 
-gcounttuser = "100" 
+limitawal = "100"
+gcounttprem = "999999" 
+gcounttuser = "50" 
 
 let multi = true
 let nopref = false
@@ -186,21 +186,21 @@ banChats = setting.self_mode
 autorespon = true
 offline = false
 readGc = true 
-readPc = false 
-antitrol = false 
+readPc = true 
+antitrol = true 
 bugc = false
-autovn = true
+autovn = false
 autoketik = false
 autoregister = setting.user_register
 
 img = setting.img
-baper = 'SUB YT ZEEONE OFC'
-apiku = 'https://youtu.be/2rWbjrDIAyA'
-gc_wa_lu = 'https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV' //klo gk punya gc wa gk usah di ganti 👍
+baper = 'Owner RenB0T'
+apiku = 'https://youtube.com/channel/UChy1o7FRCEkt8ewAkFxq0HA'
+gc_wa_lu = 'https://chat.whatsapp.com/Ia1iqqUnchtCqmpxb17kSm' //klo gk punya gc wa gk usah di ganti 👍
 targetpc = setting.ownerNumberr
 owner = targetpc
 fake = setting.fake
-numbernye = '0'
+numbernye = '6285845823026'
 waktu = 'Nothing'
 alasan = 'Nothing'
 botname = setting.botname
@@ -222,7 +222,7 @@ memberwin = 1
 memberlose = 1 
 
 //Credit For 404 SQUAD ( Gk usah di hapus mek)
-//Lingz
+//RenB0T
 //Felix
 //Lenz
 //Arya
