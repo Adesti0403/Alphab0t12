@@ -1,9 +1,10 @@
 const infobot = (status, offline, latensii, totalchat, giid, wa_version, mcc, mnc, os_version, device_manufacturer, device_model, ownerNumberrr,runtime, kyun) => {
-return `ℒ⃝👾 *B O T  S T A T I S T I C*
+return `ℒ⃝👾 *I N F O  B O T*
 
+🤖 Nama BOT : 𝑨-𝑫𝒆𝒔𝒕𝒚
 👨‍💻 Owner : @${ownerNumberrr.split('@')[0]}
-☪️ Lib  : Baileys
-☸️ Type  : NodeJs
+☪️ Lib  : RenB0T Offcial
+☸️ Type  : Heroku
 ♂️ Mode : ${status}
 ♀️ Status : ${offline ? 'OFFLINE' : 'ONLINE'}
 👨‍👨‍👧‍👦 Group Chat : ${giid.length}
@@ -13,7 +14,7 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 🌾 Runtime : ${kyun(runtime)}
 
 
-ℒ⃝📲 *P H O N E  S T A T I S T I C*
+ℒ⃝📲 *I N F O  D E V I C E*
 
 🪀 WhatsApp V : ${wa_version}
 🛑 RAM : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
@@ -24,16 +25,16 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 📮 Versi Hp : ${device_model}
 
 
-ℒ⃝👨‍💻 *C O N N E C T  W I T H  M E*
+ℒ⃝👨‍💻 *H U B U N G I  S A Y A*
 
-⛎ Api : api-alphabot.herokuapp.com
-♈ YouTube : youtube.com/c/zeeoneofc
-♉ Github : zeeoneofc.github.io
-♊ Instagram : instagram.com/zeeoneofc
-♋ Tiktok : tiktok.com/@zeeoneofc
-♌ Telegram : t.me/zeeoneofc
-♎ Ch Telegram : t.me/zeeone_ofc
-♏ WhatsApp : bit.ly/zeeone_ofc
+⛎ Heroku : api-RenB0T.herokuapp.com
+♈ YouTube : https://youtube.com/channel/UChy1o7FRCEkt8ewAkFxq0HA
+♉ Github : RenB0T.github.io
+♊ Instagram : Pribadi!!
+♋ Tiktok : https://vt.tiktok.com/ZSeUpAGDJ/
+♌ Twetter : https://twitter.com/Nataa040320?t=AIHzEX0sCHUs49lSJCg0DQ&s=09
+♎ Telegram : Pribadi!!
+♏ WhatsApp : wa.me/+6285845823026
 `}
 
 exports.infobot = infobot
